@@ -34,3 +34,15 @@ py-vuln-scanner/
 ├── requirements.txt # Dependencies
 ├── README.md # Project overview and instructions
 └── LICENSE
+
+## Example
+
+=== py-vuln-scanner ===
+Starting scan...
+
+Scanning 127.0.0.1 on ports: [22, 80, 443, 3389]
+
+[-] Port 22 is CLOSED
+[-] Port 80 is CLOSED
+[-] Port 443 is CLOSED
+[-] Port 3389 is CLOSED
